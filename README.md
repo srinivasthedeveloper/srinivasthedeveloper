@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Buddy, I am Srinivas(The Developer) 👋
 
 
 - 🔭 I’m currently studying on SECE
