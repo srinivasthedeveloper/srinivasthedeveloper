@@ -10,4 +10,4 @@
 - 😄 Pronouns: DO WHAT YOU LOVE AND LOVE WHAT YOU DID
 - ⚡ Fun fact: Making my own ironman suit
 
-<img src="https://github-readme-stats.vercel.app/api?username=srinivasthedeveloper&&show_icons=true&title_color=2aff00&icon_color=2aff00&text_color=00ffff&bg_color=000000">
+<img src="https://github-readme-stats.vercel.app/api?username=srinivasthedeveloper&&show_icons=true&title_color=000000&icon_color=ff2a00&text_color=777777&bg_color=ffffff">
