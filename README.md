@@ -93,7 +93,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=srinivasthedeveloper&&show_icons=true&title_color=000000&icon_color=ff2a00&text_color=777777&bg_color=ffffff" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=srinivasthedeveloper&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
 
 </details>
 
