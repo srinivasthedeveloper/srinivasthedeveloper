@@ -96,23 +96,24 @@
   <img align="left" alt="srinivasthedeveloper's Github Stats" src="https://github-readme-stats.vercel.app/api?username=srinivasthedeveloper&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
 
 </details>
-
+<br />
 <details>
   <summary>:zap: Top Languages Stats</summary>
 
   <img align="left" alt="srinivasthedeveloper's Top Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srinivasthedeveloper&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
 
 </details>
-
+<br />
 
 <details>
   <summary>:zap: Top Repos</summary>
   
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=srinivasthedeveloper&repo=Daily-Programs&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=srinivasthedeveloper&repo=Daily-Programs&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
   
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=srinivasthedeveloper&repo=marsAmbulance&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=srinivasthedeveloper&repo=marsAmbulance&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
   
 </details>
+<br />
 
 [website]: https://srinivasthedeveloper.netlify.com
 [twitter]: https://twitter.com/sriniva70623303
