@@ -1,4 +1,4 @@
-### Hello Buddy, I am Srinivas(The Developer) 👋
+### Hello Buddy, I am [Srinivas(The Developer)!](https://srinivasthedeveloper.netlify.app) 👋
 
 - 🔭 I’m currently studying on SECE
 - 🌱 I’m currently learning REACT
@@ -13,7 +13,7 @@
 -->
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
 
 ### Connect with me:
 
@@ -93,8 +93,25 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=srinivasthedeveloper&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
+  <img align="left" alt="srinivasthedeveloper's Github Stats" src="https://github-readme-stats.vercel.app/api?username=srinivasthedeveloper&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
 
+</details>
+
+<details>
+  <summary>:zap: Top Languages Stats</summary>
+
+  <img align="left" alt="srinivasthedeveloper's Top Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srinivasthedeveloper&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
+
+</details>
+
+
+<details>
+  <summary>:zap: Top Repos</summary>
+  
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=srinivasthedeveloper&repo=Daily-Programs&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
+  
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=srinivasthedeveloper&repo=marsAmbulance&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
+  
 </details>
 
 [website]: https://srinivasthedeveloper.netlify.com
