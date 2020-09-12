@@ -98,9 +98,9 @@
 </details>
 <br />
 <details>
-  <summary>:zap: Top Languages Stats</summary>
+  <summary>:zap: Languages Used Stats</summary>
 
-  <img align="left" alt="srinivasthedeveloper's Top Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srinivasthedeveloper&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
+  <img align="left" alt="srinivasthedeveloper's Language Used Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srinivasthedeveloper&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be&layout=compact" />
 
 </details>
 <br />
