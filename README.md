@@ -115,6 +115,11 @@ _____________|','   ///_/-------------/   |
 ```
 ---
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/srinivasthedeveloper/count.svg" />
+</p>
+
 
 <details>
   <summary>:zap: Github Stats</summary>
