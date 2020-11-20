@@ -1,4 +1,4 @@
-### Hello Buddy, I am [Srinivas(The Developer)!](https://srinivasthedeveloper.netlify.app) 👋<img src="https://github.com/avinal/avinal/blob/main/images/butterfly.gif"  width=30%><img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=20%>
+### Hello Buddy, I am [Srinivas(The Developer)!](https://srinivasthedeveloper.netlify.app) 👋<img src="https://github.com/avinal/avinal/blob/main/images/butterfly.gif"  width=30%><img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=20%> <!-- <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='10%'> -->
 
 - 🔭 I’m currently studying on SECE
 - 🌱 I’m currently learning REACT
