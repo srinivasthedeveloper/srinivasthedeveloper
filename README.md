@@ -1,4 +1,4 @@
-### Hello Buddy, I am [Srinivas(The Developer)!](https://srinivasthedeveloper.netlify.app) 👋
+### Hello Buddy, I am [Srinivas(The Developer)!](https://srinivasthedeveloper.netlify.app) 👋<img src="https://github.com/avinal/avinal/blob/main/images/butterfly.gif"  width=30%><img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=20%>
 
 - 🔭 I’m currently studying on SECE
 - 🌱 I’m currently learning REACT
