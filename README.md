@@ -114,7 +114,7 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```-->
-### One_Day💭 or Day_One 👾
+<h4 align="center">🌠 One_Day 🤔 Day_One 🏋️</h4>
 <p align="center"> 
   <img src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
