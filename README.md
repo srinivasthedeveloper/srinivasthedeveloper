@@ -92,6 +92,7 @@
 -->
 
 ---
+
 <!--```
                              \\\\\\\
                             \\\\\\\\\\\\
@@ -113,8 +114,8 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```-->
+### One_Day💭 or Day_One 👾
 <p align="center"> 
-  Visitor count<br>
   <img src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
@@ -122,7 +123,6 @@ _____________|','   ///_/-------------/   |
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/srinivasthedeveloper/count.svg" />
 </p>
-
 
 ---
 
