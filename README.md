@@ -1,4 +1,4 @@
-### Hello Buddy, I am [Srinivas(The Developer)!](https://srinivasthedeveloper.netlify.app) 👋<img src="https://github.com/avinal/avinal/blob/main/images/butterfly.gif"  width=30%><!--<img src="http://bestanimations.com/Animals/Insects/Butterflys/butterfly-animated-gif-45.gif#.XXgHj1IA48g.link" width=10%>--><img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=20%> <!-- <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='10%'> -->
+### Hello Buddy, I am [Srinivas(The Developer)!](https://srinivasthedeveloper.netlify.app) 👋<img src="https://github.com/avinal/avinal/blob/main/images/butterfly.gif"  width=30%><!--<img src="http://bestanimations.com/Animals/Insects/Butterflys/butterfly-animated-gif-45.gif#.XXgHj1IA48g.link" width=10%>--><img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=20%> <!--<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='10%'><img src='https://intro.rustbridge.com/img/ferris.gif' width='10%'><img src='https://media.giphy.com/media/7uNVuzjOgujvy/giphy.gif' width='10%'><img src='https://media.giphy.com/media/QDbFgrmFd9jGw/giphy.gif' width='10%'>     https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif     -->
 
 - 🔭 I’m currently studying on SECE
 - 🌱 I’m currently learning REACT
@@ -119,9 +119,12 @@ _____________|','   ///_/-------------/   |
   <img src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/srinivasthedeveloper/count.svg" />
+<p align="center">
+  Quote For You<br>
+<!--   Visitor count<br> -->
+<!--   <img src="https://profile-counter.glitch.me/srinivasthedeveloper/count.svg" alt="" /> -->
+<!--   <img src="https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=srinivasthedeveloper.srinivasthedeveloper" alt="" /> -->
+  <img alt="" src="https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=chartreuse-dark&animation=default&layout=churchill" />
 </p>
 
 ---
