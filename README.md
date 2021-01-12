@@ -154,6 +154,12 @@ _____________|','   ///_/-------------/   |
 </details>
 <br />
 
+<details>
+  <summary>:zap: Git Streak</summary>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasthedeveloper&" alt="srinivasthedeveloper's Git streak Stats" />
+</details>
+<br />
+
 [website]: https://srinivasthedeveloper.netlify.com
 [twitter]: https://twitter.com/sriniva70623303
 [facebook]: https://www.facebook.com/srinivasthedeveloper/
