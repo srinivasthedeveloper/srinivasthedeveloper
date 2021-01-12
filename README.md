@@ -139,18 +139,18 @@ _____________|','   ///_/-------------/   |
 <details>
   <summary>:zap: Languages Used Stats</summary>
 
-  <img align="left" alt="srinivasthedeveloper's Language Used Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srinivasthedeveloper&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be&layout=compact" />
+  <img align="center" alt="srinivasthedeveloper's Language Used Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srinivasthedeveloper&&show_icons=true&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be&layout=compact" />
 
 </details>
 <br />
 
 <details>
   <summary>:zap: Top Repos</summary>
+    <div display="flex">
+<br /><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=srinivasthedeveloper&repo=Daily-Programs&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
   
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=srinivasthedeveloper&repo=Daily-Programs&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
-  
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=srinivasthedeveloper&repo=marsAmbulance&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
-  
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=srinivasthedeveloper&repo=marsAmbulance&theme=vision-friendly-dark&icon_color=e10074&text_color=15d8be" />
+  </div>
 </details>
 <br />
 
