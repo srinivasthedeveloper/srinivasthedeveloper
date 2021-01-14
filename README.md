@@ -161,8 +161,8 @@ _____________|','   ///_/-------------/   |
 <br />
 
 <details>
-  <summary>:zap: Git Trophies</summary>
-   <img width="600" src="https://github-profile-trophy.vercel.app/?username=srinivasthedeveloper&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
+  <summary>:zap: Git Achivements</summary>
+   <img width="800" src="https://github-profile-trophy.vercel.app/?username=srinivasthedeveloper&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&row=1&column=9&margin-w=15&margin-h=15&theme=onedark"/>
 </details>
 <br />
 
