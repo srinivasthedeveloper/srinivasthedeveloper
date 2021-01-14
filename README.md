@@ -156,7 +156,13 @@ _____________|','   ///_/-------------/   |
 
 <details>
   <summary>:zap: Git Streak</summary>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasthedeveloper&" alt="srinivasthedeveloper's Git streak Stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasthedeveloper&background=000&border=fff&ring=ffb000&fire=15d8be&currStreakNum=lime&sideNums=ffb000&currStreakLabel=15d8be&sideLabels=15d8be&dates=e10074" alt="srinivasthedeveloper's Git streak Stats" />
+</details>
+<br />
+
+<details>
+  <summary>:zap: Git Trophies</summary>
+   <img width="600" src="https://github-profile-trophy.vercel.app/?username=srinivasthedeveloper&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
 </details>
 <br />
 
