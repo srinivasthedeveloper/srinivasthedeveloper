@@ -118,7 +118,10 @@ _____________|','   ///_/-------------/   |
 <p align="center"> 
   <img src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
-
+<p align="center">
+  Visitor count<br>
+  <img align="center" src="https://profile-counter.glitch.me/srinivasthedeveloper/count.svg" alt="" />
+</p>
 <p align="center">
   Quote For You<br>
 <!--   Visitor count<br> -->
