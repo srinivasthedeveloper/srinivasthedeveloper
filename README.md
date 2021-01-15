@@ -159,7 +159,8 @@ _____________|','   ///_/-------------/   |
 
 <details>
   <summary>:zap: Git Streak</summary>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivasthedeveloper&background=000&border=fff&ring=ffb000&fire=15d8be&currStreakNum=lime&sideNums=ffb000&currStreakLabel=15d8be&sideLabels=15d8be&dates=e10074" alt="srinivasthedeveloper's Git streak Stats" />
+  
+![srinivasthedeveloper's Git streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=srinivasthedeveloper&background=000&border=fff&ring=ffb000&fire=15d8be&currStreakNum=lime&sideNums=ffb000&currStreakLabel=15d8be&sideLabels=15d8be&dates=e10077 "srinivasthedeveloper's Git streak Stats")
 </details>
 <br />
 
