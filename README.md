@@ -1,4 +1,4 @@
-### Hello Buddy, I am [Srinivas(The Developer)!](https://srinivasthedeveloper.netlify.app) 👋<img src="https://github.com/avinal/avinal/blob/main/images/butterfly.gif"  width=30%><!--<img src="http://bestanimations.com/Animals/Insects/Butterflys/butterfly-animated-gif-45.gif#.XXgHj1IA48g.link" width=10%>--><img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=20%> <!--<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='10%'><img src='https://intro.rustbridge.com/img/ferris.gif' width='10%'><img src='https://media.giphy.com/media/7uNVuzjOgujvy/giphy.gif' width='10%'><img src='https://media.giphy.com/media/QDbFgrmFd9jGw/giphy.gif' width='10%'>     https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif     -->
+### [![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=0f403d&lines=Hello+Buddy,+I+am+SRINIVAS+👋;I'm+a+Fullstack+Web+Developer;I'm+a+Youtuber;I'm+a+Problem+solver;I'm+a+python+programmer;I'm+interested+in+creating+crazy+things)](https://srinivasthedeveloper.netlify.app)<img src="https://github.com/avinal/avinal/blob/main/images/butterfly.gif"  width=30%><!--<img src="http://bestanimations.com/Animals/Insects/Butterflys/butterfly-animated-gif-45.gif#.XXgHj1IA48g.link" width=10%>--><img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=20%> <!--<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='10%'><img src='https://intro.rustbridge.com/img/ferris.gif' width='10%'><img src='https://media.giphy.com/media/7uNVuzjOgujvy/giphy.gif' width='10%'><img src='https://media.giphy.com/media/QDbFgrmFd9jGw/giphy.gif' width='10%'>     https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif     -->
 
 - 🔭 I’m currently studying on SECE
 - 🌱 I’m currently learning REACT
@@ -17,12 +17,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![](https://img.shields.io/badge/6382589758-25D366?style=social&logo=whatsapp&logoColor=green)](https://api.whatsapp.com/send/?phone=%2B916382589758&text=hai%20srinivas,%20i%20am%20%22yourNameHere%22&app_absent=0)
 <br />
 
 ### Languages and Tools:
@@ -47,6 +47,13 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <br />
 <br />
+
+
+<details> 
+  <summary>📈 Activity Graph</summary>
+  <br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=srinivasthedeveloper&theme=github" alt="srinivasTheDeveloper's github activity graph"/>
+</details>
 
 
 <!--
