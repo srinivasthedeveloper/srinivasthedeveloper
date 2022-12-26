@@ -17,11 +17,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="" width="22px" src="./icons8-internet-100.png" />][website]
+[<img align="left" alt="" width="22px" src="./icons8-facebook-100.png" />][facebook]
+[<img align="left" alt="" width="22px" src="./icons8-twitter-100.png" />][twitter]
+[<img align="left" alt="" width="22px" src="./icons8-linkedin-circled-100.png" />][linkedin]
+[<img align="left" alt="" width="22px" src="./icons8-instagram-100.png" />][instagram]
 [![](https://img.shields.io/badge/6382589758-25D366?style=social&logo=whatsapp&logoColor=green)](https://api.whatsapp.com/send/?phone=%2B916382589758&text=hai%20srinivas,%20i%20am%20%22yourNameHere%22&app_absent=0)
 <br />
 
