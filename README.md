@@ -178,11 +178,11 @@ _____________|','   ///_/-------------/   |
 </details>
 <br />
 
-[website]: https://srinivasthedeveloper.netlify.com
-[twitter]: https://twitter.com/sriniva70623303
+[website]: https://srinivasthedeveloper.netlify.com/
+[twitter]: https://twitter.com/sriniva70623303/
 [facebook]: https://www.facebook.com/srinivasthedeveloper/
 [instagram]: https://www.instagram.com/srinivasthedeveloper/
-[linkedin]: www.linkedin.com/in/srinivasthedeveloper
+[linkedin]: https://www.linkedin.com/in/srinivasthedeveloper/
 <!--
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
