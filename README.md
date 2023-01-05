@@ -12,8 +12,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=srinivasthedeveloper&&show_icons=true&title_color=000000&icon_color=ff2a00&text_color=777777&bg_color=ffffff">
 -->
 
-### Spotify Playing 🎧
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
+<!-- ### Spotify Playing 🎧
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" /> -->
 
 ### Connect with me:
 
@@ -52,7 +52,7 @@
 <details> 
   <summary>📈 Activity Graph</summary>
   <br/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=srinivasthedeveloper&theme=github" alt="srinivasTheDeveloper's github activity graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=srinivasthedeveloper&theme=github-compact" alt="srinivasTheDeveloper's github activity graph"/>
 </details>
 
 
