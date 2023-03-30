@@ -178,7 +178,7 @@ _____________|','   ///_/-------------/   |
 </details>
 <br />
 
-[website]: https://srinivasthedeveloper.netlify.com/
+[website]: https://srinivasthedeveloper.github.io/
 [twitter]: https://twitter.com/sriniva70623303/
 [facebook]: https://www.facebook.com/srinivasthedeveloper/
 [instagram]: https://www.instagram.com/srinivasthedeveloper/
