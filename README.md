@@ -1,4 +1,4 @@
-### [![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=0f403d&lines=Hello+Buddy,+I+am+SRINIVAS+👋;I'm+a+Fullstack+Web+Developer;I'm+a+Youtuber;I'm+a+Problem+solver;I'm+a+python+programmer;I'm+interested+in+creating+crazy+things)](https://srinivasthedeveloper.netlify.app)<img src="https://github.com/avinal/avinal/blob/main/images/butterfly.gif"  width=30%><!--<img src="http://bestanimations.com/Animals/Insects/Butterflys/butterfly-animated-gif-45.gif#.XXgHj1IA48g.link" width=10%>--><img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=20%> <!--<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='10%'><img src='https://intro.rustbridge.com/img/ferris.gif' width='10%'><img src='https://media.giphy.com/media/7uNVuzjOgujvy/giphy.gif' width='10%'><img src='https://media.giphy.com/media/QDbFgrmFd9jGw/giphy.gif' width='10%'>     https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif     -->
+### [![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=1ba71b&lines=Hello+Buddy,+I+am+SRINIVAS+👋;I'm+a+Software+Developer+🧑‍💻;I+Creates+🕸️+and+📱+apps.)](https://srinivasthedeveloper.github.io)<img src="https://github.com/avinal/avinal/blob/main/images/butterfly.gif" width=30%><!--<img src="http://bestanimations.com/Animals/Insects/Butterflys/butterfly-animated-gif-45.gif#.XXgHj1IA48g.link" width=10%>--><img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=20%> <!--<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='10%'><img src='https://intro.rustbridge.com/img/ferris.gif' width='10%'><img src='https://media.giphy.com/media/7uNVuzjOgujvy/giphy.gif' width='10%'><img src='https://media.giphy.com/media/QDbFgrmFd9jGw/giphy.gif' width='10%'>     https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif     -->
 
 - 🔭 I’m currently studying on SECE
 - 🌱 I’m currently learning REACT
@@ -7,7 +7,7 @@
 - 💬 Ask me about Anything related to tech
 - 😄 Pronouns: DO WHAT YOU LOVE AND LOVE WHAT YOU DID
 - ⚡ Fun fact: Making my own ironman suit
-<!--- 📫 How to reach me: [My Portfolio](https://srinivasthedeveloper.netlify.com) or [Catch me on Twitter](https://twitter.com/sriniva70623303) or [catch me on Insta](https://www.instagram.com/srinivasthedeveloper/) or [Catch me on Facebook](https://www.facebook.com/srinivasthedeveloper/)
+<!--- 📫 How to reach me: [My Portfolio](https://srinivasthedeveloper.github.io) or [Catch me on Twitter](https://twitter.com/sriniva70623303) or [catch me on Insta](https://www.instagram.com/srinivasthedeveloper/) or [Catch me on Facebook](https://www.facebook.com/srinivasthedeveloper/)
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=srinivasthedeveloper&&show_icons=true&title_color=000000&icon_color=ff2a00&text_color=777777&bg_color=ffffff">
 -->
